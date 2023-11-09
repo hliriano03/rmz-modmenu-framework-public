@@ -18,9 +18,9 @@
     Public releases of RizzModz Mod Menu Framework
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/hliriano03/rmz-modmenu-framework-public/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/hliriano03/rmz-modmenu-framework-public/issues">Request Feature</a>
   </p>
 </div>
 
