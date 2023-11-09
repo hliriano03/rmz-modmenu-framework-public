@@ -6,7 +6,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/hliriano03/rmz-modmenu-framework-public.svg?style=for-the-badge" />
   </a>
   <a href="https://github.com/hliriano03/rmz-modmenu-framework-public/blob/main/LICENSE">
-    <img alt="MIT License" src="https://img.shields.io/github/license/hliriano03/rmz-modmenu-framework-public.svg?style=for-the-badge" />
+    <img alt="License" src="https://img.shields.io/badge/license-Closed%20Source-blue.svg?style=for-the-badge"
   </a>
 </p>
 
