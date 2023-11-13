@@ -68,6 +68,8 @@ Acquire the most recent update by click [here](https://github.com/hliriano03/rmz
 
 ### Non-Jailbroken
 This may or may not work depending on device
+<br />
+<br />
 Use sideloadly to install both framework and actual mod menu
 [Adding imaged examples later]
 
