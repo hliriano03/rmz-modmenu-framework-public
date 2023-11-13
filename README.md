@@ -67,7 +67,7 @@ Acquire the most recent update by click [here](https://github.com/hliriano03/rmz
 1. Install framework using either cydia, sileo, Filza, etc... 
 
 ### Non-Jailbroken
-
+This may or may not work depending on device
 Use sideloadly to install both framework and actual mod menu
 [Adding imaged examples later]
 
