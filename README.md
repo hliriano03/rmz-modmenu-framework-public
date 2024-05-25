@@ -62,14 +62,13 @@ Acquire the most recent update by click [here](https://github.com/hliriano03/rmz
 
 ### Installation
 
-### Rootful Jailbreak
+### Rootful & Rootless Jailbreak
 
 1. Install framework using either cydia, sileo, Filza, etc... 
 
 ### Non-Jailbroken
-This may or may not work depending on device
-<br />
-<br />
+1. Follow tutorial by clicking [here](https://rizzmodz.com/topic/5-how-to-use-rmz-mod-menu-for-non-jailbreak-without-jit/#comment-14)
+   
 Use sideloadly to install both framework and actual mod menu
 [Adding imaged examples later]
 
