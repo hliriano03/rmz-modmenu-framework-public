@@ -53,9 +53,8 @@ A modern, dark-themed mod menu framework for iOS
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<!-- Replace with new v2 screenshots -->
 <div align="center">
-<img src="https://github.com/hliriano03/rmz-modmenu-framework-public/assets/39392181/REPLACE_WITH_NEW_SCREENSHOT" alt="RMZ ModMenu v2 Screenshot" style="width:30%;" />
+<img src="https://i.imgur.com/cGFxtgR.png" alt="RMZ ModMenu v2 Screenshot" style="width:30%;" />
 </div>
 
 <br />
@@ -126,9 +125,8 @@ RMZ supports three different modes depending on your device setup:
 
 ### Hardware Mode
 
-<!-- Replace with hardware mode screenshot -->
 <div align="center">
-<img src="https://github.com/hliriano03/rmz-modmenu-framework-public/assets/39392181/REPLACE_WITH_HARDWARE_SCREENSHOT" alt="RMZ Hardware Mode Screenshot" style="width:30%;" />
+<img src="https://i.imgur.com/1joqnvC.png" alt="RMZ Hardware Mode Screenshot" style="width:30%;" />
 </div>
 
 <br />
