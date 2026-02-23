@@ -35,6 +35,7 @@ A modern, dark-themed mod menu framework for iOS
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
 <li><a href="#features">Features</a></li>
+<li><a href="#supported-modes">Supported Modes</a></li>
 <li>
 <a href="#getting-started">Getting Started</a>
 <ul>
@@ -112,6 +113,30 @@ Every interaction is animated — spring animations on the floating button, ease
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORTED MODES -->
+## Supported Modes
+
+RMZ supports three different modes depending on your device setup:
+
+| Mode | Device | Description |
+|------|--------|-------------|
+| **Jailbroken** | Jailbroken (rootful, rootless) | Full framework installed as a `.deb` package. Hooks are applied at runtime via the tweak injection system. Unlimited hooks/patches. |
+| **Hardware** | Non-Jailbroken | Both the framework and the mod menu are sideloaded onto the device. Supports up to 6 hooks/patches without JIT, or unlimited with JIT enabled. |
+| **Static** | Non-Jailbroken | A single pre-patched IPA generated via **Settings → Generate Patched IPA** with all cheats baked in. Just sideload and go — no framework install needed. Works without JIT. |
+
+### Hardware Mode
+
+<!-- Replace with hardware mode screenshot -->
+<div align="center">
+<img src="https://github.com/hliriano03/rmz-modmenu-framework-public/assets/39392181/REPLACE_WITH_HARDWARE_SCREENSHOT" alt="RMZ Hardware Mode Screenshot" style="width:30%;" />
+</div>
+
+<br />
+
+In hardware mode, the menu displays a status bar showing the number of active hooks/patches out of the 6 available slots. The side counter lets you see at a glance how many slots are in use so you can manage your active cheats accordingly.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -120,7 +145,6 @@ Download the latest release by clicking [here](https://github.com/hliriano03/rmz
 ### Prerequisites
 
 - iOS 13.0 or later
-- Jailbroken device (rootful, rootless, or roothide) **or** a sideloading method for non-jailbroken devices
 
 ### Installation
 
@@ -129,10 +153,15 @@ Download the latest release by clicking [here](https://github.com/hliriano03/rmz
 1. Download the `.deb` file from the [latest release](https://github.com/hliriano03/rmz-modmenu-framework-public/releases/latest)
 2. Install using your preferred package manager (Cydia, Sileo, Zebra) or via Filza
 
-#### Non-Jailbroken
+#### Hardware (Non-Jailbroken)
 
 1. Follow the tutorial [here](https://rizzmodz.com/topic/5-how-to-use-rmz-mod-menu-for-non-jailbreak-without-jit/#comment-14)
 2. Use Sideloadly to install both the framework and the mod menu IPA
+
+#### Static (Non-Jailbroken)
+
+1. Download the modded IPA from the [latest release](https://github.com/hliriano03/rmz-modmenu-framework-public/releases/latest)
+2. Sideload the IPA using Sideloadly or your preferred signing service — everything is included in the single IPA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
