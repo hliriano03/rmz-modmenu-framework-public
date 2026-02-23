@@ -53,6 +53,7 @@ A modern, dark-themed mod menu framework for iOS
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<!-- Replace with new v2 screenshots -->
 <div align="center">
 <img src="https://i.imgur.com/cGFxtgR.png" alt="RMZ ModMenu v2 Screenshot" style="width:30%;" />
 </div>
@@ -125,6 +126,7 @@ RMZ supports three different modes depending on your device setup:
 
 ### Hardware Mode
 
+<!-- Replace with hardware mode screenshot -->
 <div align="center">
 <img src="https://i.imgur.com/1joqnvC.png" alt="RMZ Hardware Mode Screenshot" style="width:30%;" />
 </div>
@@ -151,15 +153,9 @@ Download the latest release by clicking [here](https://github.com/hliriano03/rmz
 1. Download the `.deb` file from the [latest release](https://github.com/hliriano03/rmz-modmenu-framework-public/releases/latest)
 2. Install using your preferred package manager (Cydia, Sileo, Zebra) or via Filza
 
-#### Hardware (Non-Jailbroken)
+#### Hardware & Static (Non-Jailbroken)
 
 1. Follow the tutorial [here](https://rizzmodz.com/topic/5-how-to-use-rmz-mod-menu-for-non-jailbreak-without-jit/#comment-14)
-2. Use Sideloadly to install both the framework and the mod menu IPA
-
-#### Static (Non-Jailbroken)
-
-1. Download the modded IPA from the [latest release](https://github.com/hliriano03/rmz-modmenu-framework-public/releases/latest)
-2. Sideload the IPA using Sideloadly or your preferred signing service — everything is included in the single IPA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
