@@ -23,9 +23,14 @@ A modern, dark-themed mod menu framework for iOS
 <a href="https://github.com/hliriano03/rmz-modmenu-framework-public/releases/latest"><strong>Download Latest Release</strong></a>
 <br />
 <br />
+<a href="https://rizzmodz.com/topic/217-introducing-the-new-rmz-mod-menu-v2/"><strong>Announcement Post</strong></a>
+<br />
+<br />
 <a href="https://github.com/hliriano03/rmz-modmenu-framework-public/issues">Report Bug</a>
 &middot;
 <a href="https://github.com/hliriano03/rmz-modmenu-framework-public/issues">Request Feature</a>
+&middot;
+<a href="https://discord.gg/QrYYsvGDCZ">Discord</a>
 </p>
 </div>
 
@@ -67,9 +72,6 @@ RMZ ModMenu Framework v2 is a complete redesign of the original mod menu, built 
 <!-- FEATURES -->
 ## Features
 
-### Dark Modern Interface
-A sleek dark theme with carefully chosen colors — deep blacks, charcoal grays, and vibrant accent colors for different information types (green for success, red for errors, blue for info). Rounded corners and subtle shadows give the menu a polished, native feel.
-
 ### Floating Action Button
 A draggable floating button that serves as the entry point to the menu. It auto-snaps to the nearest screen edge after 2 seconds of inactivity and can be made invisible with a long press for a completely clean screen — tap the invisible zone to bring it back.
 
@@ -98,18 +100,9 @@ A compact settings panel with five tabs:
 ### Responsive Scaling
 The UI automatically adapts to every iOS device — from iPhone SE to iPad. Smaller screens get a scaled-down layout applied to dimensions, fonts, padding, and shadows so everything stays proportional and usable.
 
-### Smart Overlay System
-The menu runs in its own overlay window with intelligent z-ordering:
-- Touch passthrough when the menu isn't active — the host app works normally
-- Keyboard-aware positioning — the menu moves out of the way when typing
-- Orientation support — seamlessly adapts to portrait and landscape
-
 ### Alerts & Notifications
 - **Alerts** — Modal dialogs with rich text support, scrollable content, and custom button layouts
 - **Notifications** — Toast-style banners with blur backgrounds that stack from the top, auto-dismiss after 3 seconds, and support swipe-to-dismiss
-
-### Smooth Animations
-Every interaction is animated — spring animations on the floating button, ease-out curves on collapsible containers, fade transitions for visibility states, and smooth repositioning on orientation changes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,6 +185,6 @@ This project is closed source. All rights reserved.
 
 RizzModz — [rizzmodz.com](https://rizzmodz.com)
 
-Project Link: [https://github.com/hliriano03/rmz-modmenu-framework-public](https://github.com/hliriano03/rmz-modmenu-framework-public)
+Discord — [discord.gg/QrYYsvGDCZ](https://discord.gg/QrYYsvGDCZ)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
